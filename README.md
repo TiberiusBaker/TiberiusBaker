@@ -5,9 +5,11 @@
 
 🌱 I am currently getting back into Front End Development in general, as my job has me mostly working with the backend.
 
-🔭 I am currently working on my portfolio of projects, and while doing so: try new things, write good clean code, and document everything as I go.
+🔭 I am currently working on my portfolio of projects, and while doing so: trying new things, writing good clean code, and documenting everything as I go.
 
-I love to read and listen to books, mostly of the fiction variety. My current obsession is "The God of Endings" by Jacqueline Holland, which follows one woman's story throughout two centuries.
+⚡ Fun Fact: I love to read and listen to books, mostly of the fiction variety. My current obsession is "The God of Endings" by Jacqueline Holland, which follows one woman's story throughout two centuries with a message about what it is to be human.
+
+😄 Pronouns - He/Him/His
 
 # Skills
 
