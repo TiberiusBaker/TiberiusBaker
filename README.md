@@ -19,7 +19,7 @@ I love to read and listen to books, mostly of the fiction variety. My current ob
 ![amazondynamodb](https://img.shields.io/badge/amazondynamodb-8C4FFF?style=for-the-badge&logo=amazondynamodb&logoColor=black)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=black)
 ![aws lambda](https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black)
-![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=black)
+![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=white)
