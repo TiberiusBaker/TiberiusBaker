@@ -11,6 +11,11 @@ I love to read and listen to books, mostly of the fiction variety. My current ob
 
 # Skills
 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
+![githubactions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
 ![junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
