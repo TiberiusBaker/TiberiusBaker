@@ -11,6 +11,10 @@ I love to read and listen to books, mostly of the fiction variety. My current ob
 
 # Skills
 
+![python](https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=Python&logoColor=#3776AB)
+![javascript](https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=#00599C)
+![c](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=#A8B9CC)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=#61DAFB)
 <!--
 **TiberiusBaker/TiberiusBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
