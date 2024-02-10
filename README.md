@@ -22,7 +22,7 @@ I love to read and listen to books, mostly of the fiction variety. My current ob
 ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=black)
+![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=C++&logoColor=black)
 ![c](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 <!--
