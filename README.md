@@ -11,7 +11,7 @@ I love to read and listen to books, mostly of the fiction variety. My current ob
 
 # Skills
 
-![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6)
 ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=#FF9900)
 ![amazonapigateway](https://img.shields.io/badge/amazonapigateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=#FF4F8B)
