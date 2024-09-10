@@ -35,6 +35,7 @@
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=black)
 ![aws lambda](https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black)
 ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <!--
 **TiberiusBaker/TiberiusBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
